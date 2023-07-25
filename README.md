@@ -17,9 +17,7 @@
 
 
 
-<div</div>
-<div</div>
-<div</div>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
