@@ -6,9 +6,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghuwn&label=Profile%20views&color=0e75b6&style=flat" alt="donghuwn" /> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/DongHuwn](https://github.com/DongHuwn)
+- 👨‍💻 All of my projects are available at [https://github.com/DongHuwn]
 
-- 💬 Ask me about **react, nodejs**
+- 💬 Ask me about **react, vue, nodejs, golang, python**
 
 - 📫 How to reach me **doanhung522412000@gmail.com**
 
