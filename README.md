@@ -9,12 +9,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghuwn&label=Profile%20views&color=0e75b6&style=flat" alt="donghuwn" /> </p>
 - 👨‍💻 All of my projects are available at [https://github.com/DongHuwn]
 
-- 💬 Ask me about **react, vue, nodejs, golang, python**
+- 💬 Ask me about **react, vue, node, golang, python**
 
 - 📫 How to reach me **doanhung522412000@gmail.com**
 
 - ⚡ Fun fact I am Funny
 
+
+
+<div</div>
+<div</div>
+<div</div>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
